@@ -15,7 +15,8 @@
     "nprogress": "^0.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-hook-form": "^7.17.4"
+    "react-hook-form": "^7.17.4",
+    "react-icons": "^4.3.1"
   },
   "devDependencies": {
     "@types/nprogress": "^0.2.0",

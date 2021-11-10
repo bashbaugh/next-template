@@ -4,7 +4,7 @@ const name = 'APP NAME'
 const url = 'https://domain.com'
 
 const Meta: React.FC<{
-  title: string
+  title?: string
   description?: string
   image?: string
 }> = ({
